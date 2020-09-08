@@ -37,8 +37,10 @@ $(document).ready(function(){
   	console.log("remove headers clicked");
   	var text = $('#claimsdata').val();
   	console.log(regex.test(text));
-  	text = text.replace(/^.*\b(Docket)\b.*$/mg, '');
-  	text = text.replace(/^\s*$(?:\r\n?|\n)/mg, '');
+  	text = text.replace(/^.*\b(Docket)\b.*$/mg, ''); // any full line with Docket is removed
+    text = text.replace(/^.*\b(PATENT)\b.*$/mg, ''); // any full line with PATENT is removed
+    text = text.replace(/^[0-9]*$/mg, '');  // remove page number lines
+  	text = text.replace(/^\s*$(?:\r\n?|\n)/mg, ''); // remove blank lines
   	$('#claimsdata').val(text);
   })
 
