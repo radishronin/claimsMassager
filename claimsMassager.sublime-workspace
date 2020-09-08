@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isDependent\tmethod"
+			],
+			[
+				"Inde",
+				"IndependentClaim\talias"
+			],
+			[
+				"proce",
+				"process_claims"
+			],
+			[
+				"category",
+				"category-input"
+			],
+			[
+				"feature",
+				"featureset"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"PAge",
+				"PAGE_BITS"
+			],
+			[
+				"th",
+				"the_queue"
+			],
+			[
+				"threa",
+				"threadNumber"
+			],
+			[
+				"curr",
+				"current_thread"
+			],
+			[
+				"curren",
+				"current_algorithm"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"process",
+				"process_switch_overhead"
+			],
+			[
+				"num",
+				"num_processes"
+			],
+			[
+				"TIME",
+				"TIME_descending"
+			],
+			[
+				"PID",
+				"PID_ascending"
+			],
+			[
+				"Print",
+				"printSysInfo"
+			],
+			[
+				"tot",
+				"total_seconds"
+			],
+			[
+				"guest",
+				"guest_nice_time"
+			],
+			[
+				"gues",
+				"guest_nice_time"
+			],
+			[
+				"blur",
+				"blurSizeLoc"
+			],
+			[
+				"option",
+				"optionFinal"
+			],
+			[
+				"adj",
+				"adjDict"
+			],
+			[
+				"power",
+				"powerupAchieved"
+			],
+			[
+				"car",
+				"carfreefall"
+			],
+			[
+				"end",
+				"endEvent"
+			],
+			[
+				"travel",
+				"travelTable"
+			],
+			[
+				"g",
+				"getZ"
+			],
+			[
+				"get",
+				"getY"
+			],
+			[
+				"for",
+				"forv\tVector For Loop"
+			],
+			[
+				"fo",
+				"forv\tVector For Loop"
+			],
+			[
+				"grou",
+				"groupedPoints"
+			],
+			[
+				"pointG",
+				"pointGroups"
+			],
+			[
+				"po",
+				"pointGroup"
+			],
+			[
+				"points",
+				"pointsPergroup"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "edit",
+		"selected_items":
+		[
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Nick/src/claimsMassager"
+	],
+	"file_history":
+	[
+		"/Users/Nick/src/patent/patent-app/src/app/services/claims.service.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/components/claims/claims.component.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/components/claims/claims.component.html",
+		"/Users/Nick/src/patent/patent-app/e2e/src/claims/claims.po.ts",
+		"/Users/Nick/src/patent/patent-app/node_modules/@types/selenium-webdriver/index.d.ts",
+		"/Users/Nick/src/patent/patent-app/e2e/src/claims/claims.e2e-spec.ts",
+		"/Users/Nick/src/CommonGitCommands.txt",
+		"/Users/Nick/src/patent/patent-app/src/app/components/claims/claims-sidebar/claims-sidebar.component.html",
+		"/Users/Nick/src/patent/patent-app/src/app/models/claim.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/services/claims.service.spec.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/models/feature.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/app.module.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/components/sidebar/sidebar.component.scss",
+		"/Users/Nick/src/patent/patent-app/src/app/components/claims/claims.component.scss",
+		"/Users/Nick/src/patent/patent-app/src/app/components/claims/claims-sidebar/claims-sidebar.component.scss",
+		"/Users/Nick/src/patent/patent-app/src/app/components/claims/claims-sidebar/claims-sidebar.component.ts",
+		"/Users/Nick/src/patent/patent-app/src/assets/add-new.svg",
+		"/Users/Nick/src/patent/patent-app/src/styles.scss",
+		"/Users/Nick/src/pytests/test.py",
+		"/Users/Nick/src/patent/patent-app/src/app/models/data-model.spec.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/services/features.service.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/components/sidebar/sidebar.component.html",
+		"/Users/Nick/src/patent/patent-app/src/app/app.component.html",
+		"/Users/Nick/src/patent/patent-app/src/app/app.component.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/models/cycle-direction.ts",
+		"/Users/Nick/src/patent/patentproject.sublime-project",
+		"/Users/Nick/src/patent/patent-app/src/app/models/index.ts",
+		"/Users/Nick/src/patent/patent-app/src/app/models/data-model.ts",
+		"/Users/Nick/Downloads/Patware.html",
+		"/Volumes/GoogleDrive/My Drive/fenix.ai/tools/patent tool 1/patent-tool-page.html",
+		"/Volumes/GoogleDrive/My Drive/fenix.ai/tools/patent tool 1/patent-tool-code.js",
+		"/Volumes/GoogleDrive/My Drive/fenix.ai/tools/patent tool 1/patent-tool-style.css",
+		"/Volumes/GoogleDrive/My Drive/fenix.ai/tools/patent tool 1/server/node_modules/mongodb-core/blocking_test.js",
+		"/Volumes/GoogleDrive/My Drive/fenix.ai/tools/patent tool 1/server/node_modules/mongodb-core/index.js",
+		"/Users/Nick/Documents/fenix/patent tool/patent-tool-style.css",
+		"/Users/Nick/Documents/fenix/patent tool/patent-tool-page.html",
+		"/Users/Nick/Documents/fenix/patent tool/patent-tool-code.js",
+		"/Users/Nick/Documents/fenix/patent tool/patent-tool.sublime-project",
+		"/Users/Nick/Documents/CSCI442_Testing/Project-3/src/simulation/simulation.h",
+		"/Users/Nick/Documents/CSCI442_Testing/Project-3/src/simulation/simulation.cpp",
+		"/Users/Nick/Documents/CSCI442_Testing/Project-3/src/main.cpp",
+		"/Users/Nick/Documents/CSCI442_Testing/Project-3/src/physical_address/physical_address.cpp",
+		"/Users/Nick/Documents/CSCI442_Testing/Project-3/src/physical_address/physical_address_tests.cpp",
+		"/Users/Nick/Downloads/442-memsim-master/src/simulation/simulation.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/flag_parser/flag_parser_tests.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/simulation/simulation.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/frame/frame_tests.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/flag_parser/flag_parser.h",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/page_table/page_table.h",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/page_table/page_table.cpp",
+		"/Users/Nick/Documents/CSCI442/nzustak-Final/src/main.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/virtual_address/virtual_address.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/virtual_address/virtual_address.h",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/flag_parser/flag_parser.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/page/page.h",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/process/process_tests.cpp",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/physical_address/physical_address.h",
+		"/Users/Nick/Documents/CSCI442/Project-3/src/physical_address/physical_address.cpp",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/main.cpp",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/Thread.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/Process.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/Event.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/Burst.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/Queue.h",
+		"/Users/Nick/Documents/CSCI400/HaskellInClass/Chapter9.hs",
+		"/Users/Nick/Dropbox/CSCI400/HaskellDemos/demoDay-chap9.hs",
+		"/Users/Nick/Dropbox/CSCI400/Haskell/ChapterFour.hs",
+		"/Users/Nick/Dropbox/CSCI400/RubyDemos/RubyClasses-8.rb",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/queue.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/event.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/prioritized.h",
+		"/Users/Nick/Documents/CSCI442/Simulator/src/thread.h",
+		"/Users/Nick/Documents/CSCI442_old/Scheduler/src/opts.h",
+		"/Users/Nick/Documents/CSCI442_old/Scheduler/src/opts.c",
+		"/Users/Nick/Documents/CSCI442_old/Scheduler/src/scheduler.c",
+		"/Users/Nick/Documents/CSCI442_old/Scheduler/src/main.c",
+		"/Users/Nick/Documents/CSCI442_old/StarterCode 2/src/main.cpp",
+		"/Users/Nick/Documents/CSCI442_old/src/main.cpp",
+		"/Users/Nick/Documents/CSCI442/nzustak-D1/src/info/cpu_info.h",
+		"/Users/Nick/Documents/CSCI442/nzustak-D1/src/info/cpu_info.cpp",
+		"/Users/Nick/Documents/CSCI442/nzustak-D1/src/info/cpu_info_tests.cpp",
+		"/Users/Nick/Documents/CSCI442/nzustak-D1/src/info/process_info.h",
+		"/Users/Nick/Documents/CSCI442/nzustak-D1/src/info/process_info.cpp",
+		"/Users/Nick/Documents/CSCI442_old/StarterCode/src/info/process_info.cpp",
+		"/Users/Nick/Documents/CSCI442_old/StarterCode/src/info/system_info.cpp",
+		"/Users/Nick/Documents/CSCI442/StarterCode/src/info/process_info.h",
+		"/Users/Nick/Documents/CSCI442/StarterCode/src/info/process_info.cpp",
+		"/Users/Nick/Documents/WorkSpace/A1/app/src/main/java/com/zustak/nick/A1/Question.java",
+		"/Users/Nick/Documents/WorkSpace/A1/app/src/main/java/com/zustak/nick/A1/QuizActivity.java",
+		"/Users/Nick/Documents/WorkSpace/A1/app/src/main/res/values/strings.xml",
+		"/Users/Nick/Documents/CSCI441/FP_git/FinalProject/shaders/customShader.v.glsl",
+		"/Users/Nick/Downloads/Crane_L09.zip (2)/main.cpp",
+		"/Users/Nick/Documents/CSCI441/FP_git/FinalProject/main.cpp",
+		"/Users/Nick/Documents/CSCI441/FP/www/Crane.html",
+		"/Users/Nick/Documents/CSCI441/FP_git/FinalProject/shaders/customShader.f.glsl",
+		"/Users/Nick/Documents/CSCI441/FP_git/FinalProject/shaders/powerup.v.glsl",
+		"/Users/Nick/Documents/CSCI441/FP_git/FinalProject/shaders/powerup.f.glsl",
+		"/Users/Nick/Downloads/Crane_L09.zip (2)/shaders/customShader.v.glsl",
+		"/Users/Nick/Downloads/Crane_L09.zip (2)/shaders/customShader.f.glsl",
+		"/Users/Nick/Documents/CSCI441/A7/src/Ball.cpp",
+		"/Users/Nick/Downloads/Crane_A6 (1)/main.cpp",
+		"/Users/Nick/Documents/CSCI441/A7/main.cpp",
+		"/Users/Nick/Documents/config.csv",
+		"/Users/Nick/Documents/CSCI441/MP/main.cpp",
+		"/Users/Nick/Documents/CSCI441/FP/main.cpp",
+		"/Users/Nick/Documents/CSCI441/FP/src/Ball.cpp",
+		"/Users/Nick/Documents/CSCI441/FP/include/Ball.h",
+		"/Users/Nick/Documents/CSCI441/Artemis_A7/A7/Makefile",
+		"/Users/Nick/Downloads/Crane_L09.zip/main.cpp",
+		"/Users/Nick/Documents/CSCI441/lab14/shaders/blur.f.glsl",
+		"/Users/Nick/Documents/CSCI441/lab14/src/md5mesh.cpp",
+		"/Users/Nick/Documents/CSCI441/lab14/main.cpp",
+		"/Users/Nick/Documents/CSCI441/lab14/shaders/blur.v.glsl",
+		"/Users/Nick/Documents/CSCI441/A5/main.cpp",
+		"/Users/Nick/Documents/Developer/KivaLoan/KivaLoan/LoanTableViewController.swift",
+		"/Users/Nick/Documents/Developer/KivaLoan/KivaLoan/LoanDetailViewController.swift",
+		"/Users/Nick/Documents/Developer/KivaLoan/KivaLoan/Loan.swift",
+		"/Users/Nick/Documents/Developer/KivaLoan/KivaLoan/ViewController.swift",
+		"/Users/Nick/Documents/CSCI441/A7/Makefile",
+		"/Users/Nick/Documents/CSCI441/A7/include/Point.h",
+		"/Users/Nick/Documents/CSCI441/A7/src/Point.cpp",
+		"/Users/Nick/Documents/CSCI441/A7/src/PointBase.cpp",
+		"/Users/Nick/Documents/CSCI441/A5/Makefile",
+		"/Users/Nick/Documents/CSCI400/HaskellInClass/TicTacToe.hs",
+		"/Users/Nick/Documents/CSCI400/HaskellInClass/Chapter8.hs",
+		"/Users/Nick/Documents/DynamicProgramming.py",
+		"/Users/Nick/Documents/CSCI400/HaskellInClass/ChapterFive_Pt3.hs",
+		"/Users/Nick/Documents/branduns.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Lint",
+	"project": "claimsMassager.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.module",
+				"patent-app/src/app/app.module.ts"
+			],
+			[
+				"",
+				"~/Documents/testinput.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
