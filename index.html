@@ -11,10 +11,22 @@
   	<div id="header"> Claims Massager Tool </div>
   	<div id="body">
   		<div id="sidebar"> Functions <br> <br>
-  			<button id="fixlinebreaks"> Fix Line Breaks </button>
+        <button id="revert"> Revert to Last </button>
+  			<button id="fixlinebreaks"> Remove Line Breaks </button>
   			<button id="removeheaders"> Trim Headers/Pg Numbers </button>
+        <button id="prepend"> Prepend (Original) </button>
   		</div>
   		<textarea id="claimsdata" name="savedClaimsData" rows="10" cols="100"> Claims </textarea>
+      <div id="copybuttons"> Click Us To Copy Us <br>
+        <button id="copyoriginal"> (Original) </button>
+        <button id="copycurrentlyamended"> (Currently amended) </button>
+        <button id="copycanceled"> (Canceled) </button>
+        <button id="copywithdrawn"> (Withdrawn) </button>
+        <button id="copypreviouslypresented"> (Previously presented) </button>
+        <button id="copynew"> (New) </button>
+        <button id="copynotentered"> (Not entered) </button> <br>
+        <textarea id="copyzone" name="copied" rows="1" cols="1"> </textarea>
+      </div>
   	</div>
   </div>
 </body>

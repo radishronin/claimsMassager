@@ -18,3 +18,13 @@
 	min-height: 500px;
 	}
 #claimsdata {float: left;}
+#copybuttons {
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+}
+#copyzone {
+	position: absolute;
+    width:0.1px;
+    height:0.1px;
+}
