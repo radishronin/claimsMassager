@@ -21,7 +21,7 @@ $(document).ready(function(){
     saved = $('#claimsdata').val();
   }
 
-  // Bind save to input changes
+  // Bind save to any input changes
   $("#claimsdata").bind('input', save());
 
   // Revert button
